@@ -1,6 +1,6 @@
 # XAI: Introduction & Challenges
 
-This repo contains the materials that were presented at the iCORE XAI Workshop. 
+This repo contains the materials that were presented at the [iCORE](https://icore.tamucc.edu/) XAI Workshop. 
 
 **`slides_XAI_intro.pdf`**
 
